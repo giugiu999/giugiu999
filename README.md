@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=7EE787&center=true&vCenter=true&width=700&lines=Welcome+to+my+World!;CS+Student+@+University+of+Alberta;Full+Stack+Developer" />
 
-<img src="https://komarev.com/ghpvc/?username=giugiu999&label=PIXEL+VISITORS&color=6aa84f&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=giugiu999&label=VISITORS&color=6aa84f&style=for-the-badge"/>
 
 </div>
 
