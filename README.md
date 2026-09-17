@@ -52,13 +52,8 @@
 
 ## 📬 Contact me
 
-📧 **Email**
+[rosywang.netlify.app](https://rosywang.netlify.app)
 
-**wangyiru9159@gmail.com**
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/rosy-wang-38166a29b/
 
 
 <div align="center">
